@@ -7,7 +7,8 @@ Git (ssh keys is not set up)
 Java 8 (Oracle's, not the openJDK)
 Defaults to LXDE but you can switch back to Unity or openBox. 
 And I should have disabled all the social stuff (amazon one connectors)
-OVA is located @ https://mega.nz/#!JoxD2RBA!mBk_Lp4PYTTE5BRbynnwI4tp0lYjEGUVsE9EbkGmah0
+OVA is located @ https://mega.nz/#!JoxD2RBA
+!mBk_Lp4PYTTE5BRbynnwI4tp0lYjEGUVsE9EbkGmah0
 (The latter red part is the decryption key if asked)
 
 Login details
